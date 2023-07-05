@@ -54,7 +54,7 @@ def mainGame():
     # upper pipes
     upperPipes = [
         {'x': SCREENWIDTH+200, 'y':newPipe1[0]['y']},
-        {'x': SCREENWIDTH+2000+(SCREENWIDTH/2), 'y':newPipe2[0]['y']},
+        {'x': SCREENWIDTH+200+(SCREENWIDTH/2), 'y':newPipe2[0]['y']},
     ]
     # lower pipes
     lowerPipes = [
